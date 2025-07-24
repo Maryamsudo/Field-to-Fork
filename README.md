@@ -39,22 +39,22 @@
 ![login screen (1)](https://github.com/user-attachments/assets/bac84e67-c5aa-47c4-a1d0-4d93d0ba07de)
 ![Product screen (1)](https://github.com/user-attachments/assets/8e2eb7c8-596e-4819-81aa-b7f3b7594d96)
 
-
 ## 🚀 Getting Started
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/field-to-fork-app.git
-   
+   git clone https://github.com/your-username/field-to-fork-app.git   
 2. Navigate into the project:
-   cd field-to-fork-app
-   
+   cd field-to-fork-app  
 3.Install dependencies:
-   npm install
-   
+   npm install  
 4.Start the app:
   npx expo start
 Make sure you configure Firebase keys and Cloudinary settings in your environment file.
 
+📫 Contact
+Developed by Maryam Firdous
+📧 Email: maryamfirdous185@example.com
+🔗 LinkedIn: www.linkedin.com/in/maryam-firdous-086912282
 
    
